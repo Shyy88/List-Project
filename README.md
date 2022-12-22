@@ -7,4 +7,5 @@
 npm install
 nodemon app.js
 ```
-
+## Credits
+- [Angela Yu](https://github.com/angelabauer)
